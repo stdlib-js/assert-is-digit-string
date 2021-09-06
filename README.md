@@ -150,6 +150,23 @@ true
 
 <!-- /.cli -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/assert/is-hex-string`][@stdlib/assert/is-hex-string]: test whether a string contains only hexadecimal digits.
+-   [`@stdlib/assert/is-string`][@stdlib/assert/is-string]: test if a value is a string.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -206,6 +223,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-digit-string/main/LICENSE
 
 [standard-streams]: https://en.wikipedia.org/wiki/Standard_streams
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-hex-string]: https://github.com/stdlib-js/assert-is-hex-string
+
+[@stdlib/assert/is-string]: https://github.com/stdlib-js/assert-is-string
+
+<!-- </related-links> -->
 
 </section>
 
