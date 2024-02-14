@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@esm/index.mjs';
+import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@v0.2.0-esm/index.mjs';
 ```
 
 #### isDigitString( value )
@@ -80,7 +80,7 @@ var bool = isDigitString( '0123456789' );
 <body>
 <script type="module">
 
-import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@esm/index.mjs';
+import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@v0.2.0-esm/index.mjs';
 
 var out = isDigitString( '0123456789' );
 // returns true
