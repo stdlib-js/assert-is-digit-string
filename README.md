@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-digit-string/tags). For example,
+
+```javascript
 import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@v0.2.2-esm/index.mjs';
 ```
 
@@ -80,7 +85,7 @@ var bool = isDigitString( '0123456789' );
 <body>
 <script type="module">
 
-import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@v0.2.2-esm/index.mjs';
+import isDigitString from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-digit-string@esm/index.mjs';
 
 var out = isDigitString( '0123456789' );
 // returns true
